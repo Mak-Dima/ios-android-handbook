@@ -1,6 +1,7 @@
 [Companion Object](./CompanionObject.jpeg)
 [Destructing](./Destructiong.jpeg)
 [Elvis Operator](./Elvis_Operator.jpeg)
-[Kotlin Concurrency](./Kotlin_Concurrency.jpeg)
+[Concurrency](./Kotlin_Concurrency.jpeg)
+[Keywords](./Kotlin_Keywords.jpeg)
 [Nothign](./Nothing.jpeg)
 [Scope Functions](./ScopeFunctions.jpeg)
