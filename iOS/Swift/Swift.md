@@ -1,4 +1,5 @@
 [AnyHashable](./AnyHashable.jpeg)
 [final Keyword](./final_keyword.jpeg)
 [Any AnyObject](./Swift_Any_AnyObject.jpeg)
+[Collection Common Methods](./Swift_Collections_Common_methods.jpeg)
 [Executor](./Swift_Executor.jpeg)
