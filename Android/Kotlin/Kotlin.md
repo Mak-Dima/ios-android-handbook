@@ -5,3 +5,4 @@
 [Keywords](./Kotlin_Keywords.jpeg)
 [Nothign](./Nothing.jpeg)
 [Scope Functions](./ScopeFunctions.jpeg)
+[whet VS switch](whenVSswitch.jpeg)
