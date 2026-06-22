@@ -3,6 +3,7 @@
 [Elvis Operator](./Elvis_Operator.jpeg)
 [Concurrency](./Concurrency/Concurrency.md)
 [Keywords](./Kotlin_Keywords.jpeg)
+[Runtime](./Kotlin_Runtime.jpeg)
 [Nothign](./Nothing.jpeg)
 [Scope Functions](./ScopeFunctions.jpeg)
 [whet VS switch](whenVSswitch.jpeg)
