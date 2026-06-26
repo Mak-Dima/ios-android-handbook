@@ -2,6 +2,7 @@
 [AnyHashable](./AnyHashable.jpeg)
 [final Keyword](./final_keyword.jpeg)
 [Object Memory Layout](./Object_memory_layout.jpeg)
+[Object Lifecycle and Reference Safety](./Object_Lifecycle_and_Reference_Safety.jpeg)
 [Runtime Environment](./Runtime_Environment.jpeg)
 [Any AnyObject](./Swift_Any_AnyObject.jpeg)
 [Collection Common Methods](./Swift_Collections_Common_methods.jpeg)
