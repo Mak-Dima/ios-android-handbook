@@ -6,3 +6,4 @@
 [Any AnyObject](./Swift_Any_AnyObject.jpeg)
 [Collection Common Methods](./Swift_Collections_Common_methods.jpeg)
 [Executor](./Swift_Executor.jpeg)
+[Type Obstraction](./Swift_Type_Obstraction.jpeg)
