@@ -3,4 +3,5 @@
 [Jetpack Compose App Lifecycle](./JetpackCompose_app_lifecycle.jpeg)
 [Jetpack Compose Ecosystem](./JetpackComposeEcosystem.jpeg)     
 [Mutable State](./MutableState<T>.jpeg)
+[Side Effects](./SideEffects.jpeg)
 [State Hoisting](./State_Hoisting.jpeg)
