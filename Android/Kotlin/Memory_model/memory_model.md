@@ -1,0 +1,1 @@
+[Memory model](./Kotlin_Memory_Model.jpe)
