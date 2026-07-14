@@ -5,6 +5,7 @@
 [Elvis Operator](./Elvis_Operator.jpeg)
 [Keywords](./Kotlin_Keywords.jpeg)
 [Runtime](./Kotlin_Runtime.jpeg)
+[Type Hyerarchy](./Type_Hyerarchy.jpeg)
 [Nothign](./Nothing.jpeg)
 [Scope Functions](./ScopeFunctions.jpeg)
 [whet VS switch](whenVSswitch.jpeg)
