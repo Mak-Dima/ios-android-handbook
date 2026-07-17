@@ -2,6 +2,7 @@
 [Asynvchronous State Flows](./Kotlin_adynchronous_state_streams.jpeg)
 [Jetpack Compose App Lifecycle](./JetpackCompose_app_lifecycle.jpeg)
 [Jetpack Compose Ecosystem](./JetpackComposeEcosystem.jpeg)     
+[Modifier](./Modifier.jpeg)
 [Mutable State](./MutableState<T>.jpeg)
 [Side Effects](./SideEffects.jpeg)
 [State Hoisting](./State_Hoisting.jpeg)
