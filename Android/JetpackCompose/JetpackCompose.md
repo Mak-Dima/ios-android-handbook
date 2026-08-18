@@ -8,3 +8,4 @@
 [Side Effects](./SideEffects.jpeg)
 [Smart Recomposition & Stability](./Smart_Recomposition_&_Stability.jpeg)
 [State Hoisting](./State_Hoisting.jpeg)
+[Unstable Parameter](./Unstable_Parameter.jpeg)     
